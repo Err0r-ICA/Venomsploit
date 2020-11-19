@@ -15,6 +15,7 @@ Venomsploit is a python based tool designed for Termux users.<br>This script gen
 ```
 git clone https://www.github.com/Err0r-ICA/Venomsploit
 cd Venomsploit
+bash install
 python2 Venomsploit
 ```
 
